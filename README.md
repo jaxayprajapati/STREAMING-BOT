@@ -53,4 +53,3 @@ The Streaming Chatbot is a conversational AI designed to interact with users dur
 ## Environment Variables
 
 - **OPENAI_API_KEY**: Your API key for accessing necessary services.
-- 
